@@ -1,14 +1,16 @@
 .leftbar {
   float: left;
-  width: 200 px;
+  width: 33.3333%;
 }
 
-.centerbar {
-  text-align: center;
-  width: 200 px;
+.color1 {
+  background-color: lightcoral;
 }
 
-.rightbar {
-  float: right;
-  width: 200 px;
+.color2 {
+  background-color: lightgreen;
+}
+
+.color3 {
+  background-color: lightblue;
 }
