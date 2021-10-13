@@ -1,0 +1,11 @@
+.leftbar {
+  float: left;
+}
+
+.centerbar {
+  text-align: center;
+}
+
+.rightbar {
+  float: right;
+}
