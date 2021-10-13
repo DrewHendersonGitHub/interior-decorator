@@ -1,6 +1,7 @@
 .leftbar {
   float: left;
   width: 33.3333%;
+  text-align: center;
 }
 
 .color1 {
@@ -13,4 +14,14 @@
 
 .color3 {
   background-color: lightblue;
+}
+
+.centered-image {
+  margin: auto;
+  height: auto;
+  display: block;
+}
+
+h1 {
+  text-align: center;
 }
