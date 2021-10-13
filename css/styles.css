@@ -1,11 +1,14 @@
 .leftbar {
   float: left;
+  width: 200 px;
 }
 
 .centerbar {
   text-align: center;
+  width: 200 px;
 }
 
 .rightbar {
   float: right;
+  width: 200 px;
 }
