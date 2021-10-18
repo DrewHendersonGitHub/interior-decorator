@@ -2,6 +2,10 @@ body {
   background-image: url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg");
 }
 
+.header {
+  background-color: rgba(220, 20, 60, 0.281);
+}
+
 .leftbar {
   float: left;
   width: 33.3333%;
